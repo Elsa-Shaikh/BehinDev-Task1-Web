@@ -10,3 +10,5 @@ HTML
 CSS
 Javascript
 
+# Delpoyed on Netlify
+link: https://flight-to.netlify.app/
